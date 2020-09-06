@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingDotNet.CustomTasks.Domain", "UnderstandingDotNet.CustomTasks.Domain\UnderstandingDotNet.CustomTasks.Domain.csproj", "{18F08FBD-63D5-4765-8328-A2109180EC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingDotNet.CustomTasks.Demo", "UnderstandingDotNet.CustomTasks.Demo\UnderstandingDotNet.CustomTasks.Demo.csproj", "{49E381BE-386B-45A5-A0F2-D71F7BFAAE63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18F08FBD-63D5-4765-8328-A2109180EC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F08FBD-63D5-4765-8328-A2109180EC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F08FBD-63D5-4765-8328-A2109180EC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F08FBD-63D5-4765-8328-A2109180EC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E381BE-386B-45A5-A0F2-D71F7BFAAE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E381BE-386B-45A5-A0F2-D71F7BFAAE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E381BE-386B-45A5-A0F2-D71F7BFAAE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E381BE-386B-45A5-A0F2-D71F7BFAAE63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
