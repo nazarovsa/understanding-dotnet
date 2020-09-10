@@ -5,6 +5,9 @@
 Понимание работы CLR
 ----------------------
 - Управление памятью: [видео](https://www.youtube.com/watch?v=DVnmGW6964o&list=PLBwwJL9lzKMY3At-QQQijfiHdsYnOQ7vY)
+- TaskScheduler: [видео](https://www.youtube.com/watch?v=hvh4tQzpl0Q)
+- Task: [видео](https://www.youtube.com/watch?v=HiKzuWbRgPM)
+- async/await: [видео](https://www.youtube.com/watch?v=_suxE9frTFA)
 
 Asp.Net Core
 ----------------------
