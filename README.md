@@ -12,3 +12,8 @@
 Asp.Net Core
 ----------------------
 - Использование HttpClient в Asp.Net Core: [статья](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-requests), [пример](https://github.com/InsightAppDev/understanding-dotnet/tree/master/samples/UnderstandingDotNet.IHttpClientFactory/UnderstandingDotNet.IHttpClientFactory.AspNet)
+
+
+Доклады
+----------------------
+- [Оптимизация .NET-приложений под Garbage Collector / Станислав Сидристый (EPAM)](https://www.youtube.com/watch?v=WSwK_c8I1sM&list=PLH-XmS0lSi_wvGzuuGw2f6rQQe3qB5fV4&index=8)
