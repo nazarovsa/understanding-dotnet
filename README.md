@@ -8,7 +8,7 @@
 - TaskScheduler: [видео](https://www.youtube.com/watch?v=hvh4tQzpl0Q)
 - Task: [видео](https://www.youtube.com/watch?v=HiKzuWbRgPM)
 - async/await: [видео](https://www.youtube.com/watch?v=_suxE9frTFA)
-- Features provided by system transactions (https://docs.microsoft.com/en-us/dotnet/framework/data/transactions/features-provided-by-system-transactions)
+- [Features provided by system transactions](https://docs.microsoft.com/en-us/dotnet/framework/data/transactions/features-provided-by-system-transactions)
 
 Asp.Net Core
 ----------------------
